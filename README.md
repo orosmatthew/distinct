@@ -5,3 +5,5 @@ is to prove an argument.
 
 ## Results
 
+![Graph of Results](https://raw.githubusercontent.com/orosmatthew/distinct/master/img/distinct-times.png)
+
